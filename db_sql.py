@@ -15,7 +15,9 @@ def sql_path(i):
         database="information_schema"
     )
 
-
+#NEw code to chek
+#if it is working
+#or not
 
 
     mycursor = mydb.cursor()
